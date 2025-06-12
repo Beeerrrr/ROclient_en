@@ -13,5 +13,3 @@ Please respect the intended use and do not monetize these files.
 
 20231220+ CLIENT bodystylefix Source : https://github.com/AoShinRO/brHades
 
-Added support for refined barter items
-https://github.com/rathena/rathena/pull/9303
